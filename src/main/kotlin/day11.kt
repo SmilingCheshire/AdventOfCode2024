@@ -11,7 +11,7 @@ fun main() {
         BigInteger("0"),
         BigInteger("15"),
         BigInteger("182")
-    ) // Replace this with input data
+    ) 
 
     val blinks = 25 // Number of blinks to simulate
 
